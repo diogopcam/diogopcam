@@ -9,13 +9,11 @@ I'm an aspiring Fullstack Developer passionate about **Software Development**, i
 ## Have a look at my web portfolio to see what I'm currently working on:
 
 - 💻 Learning basic Machine Learning concepts with scikit-learn (mainly supervised learning models).
-- 🚀 Developing a **collage-making web app** based on the Topsters 3 platform, where users can drag-and-drop album covers into customizable frames. I'm using React and Tailwind CSS for the frontend, and Flask for the Rest API to handle user requests.
+- 🚀 Developing a collage-making web app based on the Topsters 3 platform, where users can drag-and-drop album covers into customizable frames. I'm using React and Tailwind CSS for the frontend, and Flask for the Rest API to handle user requests.
 - 🌐 Enhancing my frontend skills with React and developing Rest APIs with Flask and Spring Boot by creating an attractive platform that centralizes information about Brazilian Olympic athletes.
 - 📂 Building a web portfolio with React, Vite, and Tailwind CSS to present my projects in a structured, engaging, and visually appealing way.
-- 🔢 **Tic-Tac-Toe Game State Analyzer**: A Python program that generates all possible game states and analyzes valid ongoing matches using combinatorial game theory. Built a Flask-based API that integrates multiple ML algorithms (KNN, Decision Trees, Gradient Boosting) to predict outcomes based on user-provided datasets.
-- 🚗 **Parking Ticketing System**: Developed a simulation to calculate parking fees using TDD (Test-Driven Development) principles.
 
-[![Auth UI Vue](https://svg.bookmark.style/api?url=https://github.com/nuxtbase/auth-ui-vue&mode=light&style=horizontal)](https://github.com/nuxtbase/auth-ui-vue)
+[![Portfolio](https://svg.bookmark.style/api?url=https://github.com/nuxtbase/auth-ui-vue&mode=light&style=horizontal)](https://github.com/nuxtbase/auth-ui-vue)
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸
 
