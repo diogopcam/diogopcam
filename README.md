@@ -70,3 +70,5 @@ Check out all my projects [here](https://github.com/Diogo)!
 ![Diogo's GitHub stats](https://github-readme-stats.vercel.app/api?username=diogo&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=diogo&layout=compact&theme=radical)
+
+# This readme was heavily influenced by this [model](https://github.com/xiaoluoboding/xiaoluoboding.git)
