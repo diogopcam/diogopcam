@@ -41,6 +41,6 @@ A glimpse of what you will find:
 
 ![Diogo's GitHub stats](https://github-readme-stats.vercel.app/api?username=diogopcam&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=diogo&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=diogopcam&layout=compact&theme=radical)
 
 # This readme was heavily influenced by this [model](https://github.com/xiaoluoboding/xiaoluoboding.git)
