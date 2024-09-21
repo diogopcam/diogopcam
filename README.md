@@ -8,12 +8,13 @@ I'm an aspiring Fullstack Developer passionate about **Software Development**, i
 
 ## Have a look at my web portfolio to see what I'm currently working on:
 
+A glimpse on what you will find:
 - 💻 Learning basic Machine Learning concepts with scikit-learn (mainly supervised learning models).
 - 🚀 Developing a collage-making web app based on the Topsters 3 platform, where users can drag-and-drop album covers into customizable frames. I'm using React and Tailwind CSS for the frontend, and Flask for the Rest API to handle user requests.
 - 🌐 Enhancing my frontend skills with React and developing Rest APIs with Flask and Spring Boot by creating an attractive platform that centralizes information about Brazilian Olympic athletes.
 - 📂 Building a web portfolio with React, Vite, and Tailwind CSS to present my projects in a structured, engaging, and visually appealing way.
 
-[![Portfolio](https://svg.bookmark.style/api?url=https://meuportfolio.com&mode=light&style=horizontal)](https://meuportfolio.com)
+[![Portfolio](https://via.placeholder.com/150)](https://meuportfolio.com
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸
 
