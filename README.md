@@ -8,7 +8,7 @@ I'm an aspiring Fullstack Developer passionate about **Software Development**, i
 
 ## Have a look at my web portfolio to see what I'm currently working on:
 
-A glimpse on what you will find:
+A glimpse of what you will find:
 - 💻 Learning basic Machine Learning concepts with scikit-learn (mainly supervised learning models).
 - 🚀 Developing a collage-making web app based on the Topsters 3 platform, where users can drag-and-drop album covers into customizable frames. I'm using React and Tailwind CSS for the frontend, and Flask for the Rest API to handle user requests.
 - 🌐 Enhancing my frontend skills with React and developing Rest APIs with Flask and Spring Boot by creating an attractive platform that centralizes information about Brazilian Olympic athletes.
@@ -38,35 +38,6 @@ A glimpse on what you will find:
 ![BeautifulSoup](https://img.shields.io/badge/-BeautifulSoup-%236DB33F?style=flat-square&logo=beautifulsoup4)
 
 ---
-
-### 🔭 **What I’m Working On**
-
----
-
-### 🛠 **Tech Stack**
-
-- **Languages**: Python, Java, JavaScript
-- **Frameworks**: Flask, Spring Boot, React, Tailwind CSS
-- **Databases**: MongoDB, MySQL
-- **Tools**: Git, Docker, Pandas, Scikit-learn, BeautifulSoup
-- **Cloud Platforms**: Render
-
----
-
-### 📊 **Projects I'm Proud Of**
-
-Check out all my projects [here](https://github.com/Diogo)!
-
----
-
-### 🌱 **Currently Learning**
-
-- **Deep Learning**: Studying neural networks.
-- **Frontend Development**: Exploring Tailwind CSS and Vite for faster and more efficient web design.
-- **TDD (Test-Driven Development)**: Implementing design patterns and unit tests for cleaner code and higher maintainability.
-
----
-
 ### 📈 **GitHub Stats**
 
 ![Diogo's GitHub stats](https://github-readme-stats.vercel.app/api?username=diogo&show_icons=true&theme=radical)
