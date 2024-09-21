@@ -13,10 +13,9 @@ A glimpse of what you will find:
 - 🌐 Enhancing my frontend skills with React and developing Rest APIs with Flask and Spring Boot by creating an attractive platform that centralizes information about Brazilian Olympic athletes.
 - 📂 Building a web portfolio with React, Vite, and Tailwind CSS to present my projects in a structured, engaging, and visually appealing way.
 
-<a href="https://portfolio-diogo.onrender.com/">
-  <img src="https://imgur.com/7z3kak0" alt="Portfolio" style="border-radius: 10px; width: 200px; height: auto;" />
-</a>
-
+  <a href="https://portfolio-diogo.onrender.com/">
+    <img src="https://github.com/user-attachments/assets/b762a444-e684-4b91-8c9e-6025e87e3574" alt="Portfolio" style="border-radius: 10px; width: 500px; height: auto;" />
+  </a>
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸
 
