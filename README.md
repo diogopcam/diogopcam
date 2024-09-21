@@ -6,16 +6,18 @@ I'm a 19-year-old aspiring Fullstack Developer passionate about Software Develop
 [![](https://img.shields.io/badge/-@diogopcam-%23181717?style=flat-square&logo=github)](https://github.com/diogopcam)
 [![](https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/diogo-camargo-aab167318/)
 
-Have a look at my web portfolio (still under development) by clicking the image below to see what I'm currently working on:
+### Have a look at my web portfolio (still under development) by clicking the image below to see what I'm currently working on:
+
+<div align="center">
+  <a href="https://portfolio-diogo.onrender.com/">
+    <img src="https://github.com/user-attachments/assets/b762a444-e684-4b91-8c9e-6025e87e3574" alt="Portfolio" style="border-radius: 10px; width: 500px; height: auto;" />
+  </a>
+</div>
 
 A glimpse of what you will find:
 - 🚀 Developing a collage-making web app based on the Topsters 3 platform, where users can drag-and-drop album covers into customizable frames. I'm using React and Tailwind CSS for the frontend, and Flask for the Rest API to handle user requests.
 - 🌐 Enhancing my frontend skills with React and developing Rest APIs with Flask and Spring Boot by creating an attractive platform that centralizes information about Brazilian Olympic athletes.
 - 📂 Building a web portfolio with React, Vite, and Tailwind CSS to present my projects in a structured, engaging, and visually appealing way.
-
-  <a href="https://portfolio-diogo.onrender.com/">
-    <img src="https://github.com/user-attachments/assets/b762a444-e684-4b91-8c9e-6025e87e3574" alt="Portfolio" style="border-radius: 10px; width: 500px; height: auto;" />
-  </a>
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸
 
