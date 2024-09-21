@@ -1,7 +1,7 @@
 # Welcome, I'm Diogo!
 ### 4th Semester Software Engineering Student 🎓
 
-I'm an aspiring Fullstack Developer passionate about **Software Development**, interested in **Machine Learning** and creating efficient and creative solutions.
+I'm a 19-year-old aspiring Fullstack Developer passionate about Software Development, interested in Machine Learning, and dedicated to creating efficient and creative solutions.
 
 [![](https://img.shields.io/badge/-@diogopcam-%23181717?style=flat-square&logo=github)](https://github.com/diogopcam)
 [![](https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/diogo-camargo-aab167318/)
