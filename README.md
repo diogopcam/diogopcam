@@ -3,8 +3,8 @@
 
 I'm an aspiring Fullstack Developer passionate about **Software Development**, interested in **Machine Learning** and creating efficient and creative solutions.
 
-[![](https://img.shields.io/badge/-@xiaoluoboding-%23181717?style=flat-square&logo=github)](https://github.com/diogopcam)
-[![](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=xlbd.me&url=https%3A%2F%2Fxlbd.me)](https://xlbd.me)
+[![](https://img.shields.io/badge/-@diogopcam-%23181717?style=flat-square&logo=github)](https://github.com/diogopcam)
+[![](https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/diogo-camargo-aab167318/)
 
 ## Give a look into my web portfolio to see what I am currently working on
 
