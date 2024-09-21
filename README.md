@@ -8,6 +8,13 @@ I'm an aspiring Fullstack Developer passionate about **Software Development**, i
 
 ## Give a look into my web portfolio to see what I am currently working on
 
+A glimpse of what you will find:
+    - 💻 Learning basics Machine Learning basics with scikit-learn (mainly supervisioned learning models).
+    - 🚀 Developing a **collage-making web app**, based on an existing platform called Topsters 3, where users can drag-and-drop album covers into customizable frames. I'm using React and Tailwind CSS for front-end and Flask to develop the Rest API responsible for dealing with users requisitions. 
+    - 🌐 Developing a attractive platform to centralize informations about brazilian Olympic athletes to enhance my front-end habilities with React and Rest API development with Spring-Boot. Creating Rest API's with Flask and Spring-Boot
+    - Developing a web portfolio with React, Vite and Tailwind CSS to present my projects in a structured, interesting and attractive way.
+    - **Tic-Tac-Toe Game State Analyzer**: A Python program that generates all possible game states and analyzes valid ongoing matches using combinatorial game theory. Built a Flask-based API that integrates multiple ML algorithms (KNN, Decision Trees, Gradient Boosting) to predict outcomes based on user-provided datasets.
+    - **Parking Ticketing System**: Developed a simulation to calculate parking fees in a TDD (Test-Driven Development) environment.
 [![Auth UI Vue](https://svg.bookmark.style/api?url=https://github.com/nuxtbase/auth-ui-vue&mode=light&style=horizontal)](https://github.com/nuxtbase/auth-ui-vue)
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
@@ -35,12 +42,6 @@ I'm an aspiring Fullstack Developer passionate about **Software Development**, i
 
 ### 🔭 **What I’m Working On**
 
-- 💻 Learning basics Machine Learning basics with scikit-learn (mainly supervisioned learning models).
-- 🚀 Developing a **collage-making web app**, based on an existing platform called Topsters 3, where users can drag-and-drop album covers into customizable frames. I'm using React and Tailwind CSS for front-end and Flask to develop the Rest API responsible for dealing with users requisitions. 
-- 🌐 Developing a attractive platform to centralize informations about brazilian Olympic athletes to enhance my front-end habilities with React and Rest API development with Spring-Boot. Creating Rest API's with Flask and Spring-Boot
-- Developing a web portfolio with React, Vite and Tailwind CSS to present my projects in a structured, interesting and attractive way.
-- **Tic-Tac-Toe Game State Analyzer**: A Python program that generates all possible game states and analyzes valid ongoing matches using combinatorial game theory. Built a Flask-based API that integrates multiple ML algorithms (KNN, Decision Trees, Gradient Boosting) to predict outcomes based on user-provided datasets.
-- **Parking Ticketing System**: Developed a simulation to calculate parking fees in a TDD (Test-Driven Development) environment.
 ---
 
 ### 🛠 **Tech Stack**
