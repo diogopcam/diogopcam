@@ -1,36 +1,33 @@
 # 👋 Hi, I'm Diogo!
 
-### 👨‍💻 Software Engineer in the Making | 🎓 4th Semester Computer Engineering Student | 📚 Tech Enthusiast
+### 👨‍💻 4th Semester Software Engineering Student  🎓
 
-Welcome to my GitHub! I'm passionate about **Software Development**, **Machine Learning**, and exploring the latest technologies. Currently diving deeper into **AI** and **data science**, while mastering the art of building robust backend systems with **Flask** and **Spring Boot**.
+Welcome to my GitHub! I'm an aspiring Fullstack Developer passionate about **Software Development**, interested in **Machine Learning** and creating efficient and creative solutions.
 
 ---
 
 ### 🔭 **What I’m Working On**
 
-- 💻 Improving machine learning models for higher accuracy on Kaggle.
-- 🚀 Developing a **collage-making web app** where users can drag-and-drop images into customizable frames (React & Tailwind CSS).
-- 🌐 Simulating complex queueing systems in my **Queueing Networks** project, allowing users to visualize network topologies and routing scenarios.
-- 🤖 Experimenting with **Deep Learning** models to solve real-world challenges.
-
+- 💻 Learning basics Machine Learning basics with scikit-learn (mainly supervisioned learning models).
+- 🚀 Developing a **collage-making web app**, based on an existing platform called Topsters 3, where users can drag-and-drop album covers into customizable frames. I'm using React and Tailwind CSS for front-end and Flask to develop the Rest API responsible for dealing with users requisitions. 
+- 🌐 Developing a attractive platform to centralize informations about brazilian Olympic athletes to enhance my front-end habilities with React and Rest API development with Spring-Boot. Creating Rest API's with Flask and Spring-Boot
+- Developing a web portfolio with React, Vite and Tailwind CSS to present my projects in a structured, interesting and attractive way.
 ---
 
 ### 🛠 **Tech Stack**
 
-- **Languages**: Python, Java, JavaScript, TypeScript, C
+- **Languages**: Python, Java, JavaScript
 - **Frameworks**: Flask, Spring Boot, React, Tailwind CSS
-- **Databases**: MongoDB, PostgreSQL, MySQL
-- **Tools**: Git, Docker, Kubernetes, Pandas, Scikit-learn, TensorFlow
-- **Cloud Platforms**: AWS, Heroku, Google Cloud
+- **Databases**: MongoDB, MySQL
+- **Tools**: Git, Docker, Pandas, Scikit-learn, beautifulsoup
+- **Cloud Platforms**: Render
 
 ---
 
 ### 📊 **Projects I'm Proud Of**
 
-- **Tic-Tac-Toe Game State Analyzer**: A Python program that generates all possible game states and analyzes valid ongoing matches using combinatorial game theory.
-- **AI Prediction API**: Built a Flask-based API that integrates multiple ML algorithms (KNN, Decision Trees, Gradient Boosting) to predict outcomes based on user-provided datasets.
+- **Tic-Tac-Toe Game State Analyzer**: A Python program that generates all possible game states and analyzes valid ongoing matches using combinatorial game theory. Built a Flask-based API that integrates multiple ML algorithms (KNN, Decision Trees, Gradient Boosting) to predict outcomes based on user-provided datasets.
 - **Parking Ticketing System**: Developed a simulation to calculate parking fees in a TDD (Test-Driven Development) environment.
-- **Random Forest Classifier on Kaggle**: Achieved **75% accuracy** on a Kaggle dataset, aiming to reach 81% with hyperparameter tuning.
 
 Check out all my projects [here](https://github.com/Diogo)!
 
@@ -38,7 +35,7 @@ Check out all my projects [here](https://github.com/Diogo)!
 
 ### 🌱 **Currently Learning**
 
-- **Deep Learning**: Studying neural networks and backpropagation to improve prediction models.
+- **Deep Learning**: Studying neural networks.
 - **Frontend Development**: Exploring Tailwind CSS and Vite for faster and more efficient web design.
 - **TDD (Test-Driven Development)**: Implementing design patterns and unit tests for cleaner code and higher maintainability.
 
@@ -46,17 +43,13 @@ Check out all my projects [here](https://github.com/Diogo)!
 
 ### 🎯 **Goals for 2024**
 
-- 🚀 Master **Kubernetes** for container orchestration.
-- 🏆 Improve my Kaggle ranking by submitting more complex models.
 - 👥 Contribute to open-source projects and collaborate with other developers.
-- 💡 Build a full-stack application that uses AI to automate day-to-day tasks.
 
 ---
 
 ### 🌟 **Fun Facts About Me**
 
 - 🌍 I’m from Brazil, and I'm learning **English** fluently.
-- 🎮 I love gaming—especially strategy games like **Age of Empires**.
 - 🏋️‍♂️ Fitness enthusiast! I balance coding with workouts to stay sharp mentally and physically.
 - 🎥 Currently watching: *Incendies* by Denis Villeneuve.
 
