@@ -13,7 +13,7 @@ I'm an aspiring Fullstack Developer passionate about **Software Development**, i
 - 🌐 Enhancing my frontend skills with React and developing Rest APIs with Flask and Spring Boot by creating an attractive platform that centralizes information about Brazilian Olympic athletes.
 - 📂 Building a web portfolio with React, Vite, and Tailwind CSS to present my projects in a structured, engaging, and visually appealing way.
 
-[![Portfolio](https://svg.bookmark.style/api?url=https://github.com/nuxtbase/auth-ui-vue&mode=light&style=horizontal)](https://github.com/nuxtbase/auth-ui-vue)
+[![Portfolio](https://svg.bookmark.style/api?url=https://meuportfolio.com&mode=light&style=horizontal)](https://meuportfolio.com)
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸
 
