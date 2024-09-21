@@ -43,4 +43,5 @@ A glimpse of what you will find:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=diogopcam&layout=compact&theme=radical)
 
-# This readme was heavily influenced by this [model](https://github.com/xiaoluoboding/xiaoluoboding.git)
+
+About this readme: This document style was heavily influenced by this [model](https://github.com/xiaoluoboding/xiaoluoboding.git)
