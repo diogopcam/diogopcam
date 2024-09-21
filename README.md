@@ -39,7 +39,7 @@ A glimpse of what you will find:
 ---
 ### 📈 **GitHub Stats**
 
-![Diogo's GitHub stats](https://github-readme-stats.vercel.app/api?username=diogo&show_icons=true&theme=radical)
+![Diogo's GitHub stats](https://github-readme-stats.vercel.app/api?username=diogopcam&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=diogo&layout=compact&theme=radical)
 
