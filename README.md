@@ -1,4 +1,7 @@
-# 𝙃𝙚𝙡𝙡𝙤, 𝙄'𝙢 𝙍𝙤𝙗𝙚𝙧𝙩 𝙎𝙝𝙖𝙬
+# Welcome, I'm Diogo!
+### 4th Semester Software Engineering Student  🎓
+
+I'm an aspiring Fullstack Developer passionate about **Software Development**, interested in **Machine Learning** and creating efficient and creative solutions.
 
 [![](https://img.shields.io/badge/-@xiaoluoboding-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/xiaoluoboding)
 [![](https://img.shields.io/badge/-@xiaoluoboding-%23181717?style=flat-square&logo=github)](https://github.com/xiaoluoboding)
@@ -51,13 +54,6 @@
 ![Vercel](https://img.shields.io/badge/-Vercel-%23ffffff?style=flat-square&logo=vercel&logoColor=000000)
 ![Railway](https://img.shields.io/badge/-Railway-%230B0D0E?style=flat-square&logo=railway)
 ![Render](https://img.shields.io/badge/-Render-%2346E3B7?style=flat-square&logo=render&logoColor=ffffff)
-
-# Welcome, I'm Diogo!
-
-### 4th Semester Software Engineering Student  🎓
-
-I'm an aspiring Fullstack Developer passionate about **Software Development**, interested in **Machine Learning** and creating efficient and creative solutions.
-
 ---
 
 ### 🔭 **What I’m Working On**
