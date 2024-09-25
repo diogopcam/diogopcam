@@ -16,7 +16,7 @@ I'm a 19-year-old aspiring Fullstack Developer passionate about Software Develop
 
 A glimpse of what you will find:
 - 🚀 Developing a collage-making web app based on the Topsters 3 platform, where users can drag-and-drop album covers into customizable frames. I'm using React and Tailwind CSS for the frontend, and Flask for the Rest API to handle user requests.
-- 🌐 Enhancing my frontend skills with React and developing Rest APIs with Flask and Spring Boot by creating an attractive platform that centralizes information about Brazilian Olympic athletes.
+- 🌐 Enhancing my frontend skills with React and developing Rest APIs with Spring Boot by creating an attractive platform that centralizes information about Brazilian Olympic athletes.
 - 📂 Building a web portfolio with React, Vite, and Tailwind CSS to present my projects in a structured, engaging, and visually appealing way.
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸
